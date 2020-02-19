@@ -22,15 +22,15 @@ showcase certain programming abilities.
 
 This repo contains in-development code for future releases. ...........................................
 
-**************************
-Changelog and New Features
-**************************
+
+### Changelog and New Features
+
 
 You can find a list of all changes for each push in the `Commits <https://github.com/Polkm7/SoftwareApplicationDomainProject/commits/master>`_.
 
-*******************
-Server Requirements
-*******************
+
+### Server Requirements
+
 
 PHP version 5.6 or newer is recommended.
 MySQL database support.
@@ -39,9 +39,8 @@ It should work on 5.3.7 as well, but we strongly advise you NOT to run
 such old versions of PHP, because of potential security and performance
 issues, as well as missing features.
 
-*******
-License
-*******
+
+### License
 
 The MIT License
 
