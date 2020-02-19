@@ -1,6 +1,4 @@
-###################
-Easy Accounting
-###################
+# Accounting @ Hussains
 
 <b>SAAD</b> <br>
 Email: saad@triangeltech.com<br>
@@ -18,9 +16,9 @@ The software is a simple software that is very limited, but used more as a prese
 accounting can be implemented. There are various pieces of code that are not industry quality, but this is again used to merely
 showcase certain programming abilities.
 
-*******************
-Release Information
-*******************
+
+### Release Information
+
 
 This repo contains in-development code for future releases. ...........................................
 
